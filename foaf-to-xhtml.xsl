@@ -26,7 +26,7 @@
 
                 <p> Visitez la page d'accueil : <a
                         href="{foaf:Person/foaf:homepage/@rdf:resource}">
-                        <xsl:value-of select="foaf:Person/foaf:homepage" />
+                        Ma page d'accueil
                     </a>
                 </p>
 
